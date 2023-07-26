@@ -1,4 +1,4 @@
-# TITULO
+# Certifiable solver for the relative pose problem based on homographies with known gravity vector
 
 This repository contains the code 
 for the XXXXX
@@ -8,7 +8,7 @@ for the [paper]() [1].
 [Javier Gonzalez-Jimenez](https://mapir.isa.uma.es/mapirwebsite/?p=1536)
 
 
-**License:** [GPLv3](https://raw.githubusercontent.com/mergarsal/CertHPrior/main/LICENSE)
+**License:** [GPLv3](https://github.com/mergarsal/CertHPrior/blob/main/LICENSE)
 
 
 If you use this code for your research, please cite:
